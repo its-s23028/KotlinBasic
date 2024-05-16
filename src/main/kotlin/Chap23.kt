@@ -1,4 +1,4 @@
-package org.exmple
+package org.exmple.chap23
 
 fun main(args: Array<String>) {
     run {
@@ -33,7 +33,7 @@ fun main(args: Array<String>) {
 
 }
 
-class Person1
+
 
 class Person2 {
     var name = ""
